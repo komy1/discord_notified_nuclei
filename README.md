@@ -6,5 +6,5 @@ Large messages are automatically split to fit within Discord's 2000-character me
 
 You can scan a single target or multiple targets from a file.
 usage :-
-chmod +u discord-nuclei.sh
+chmod +x discord-nuclei.sh
 ./discord-nuclei.sh YOUR_target
